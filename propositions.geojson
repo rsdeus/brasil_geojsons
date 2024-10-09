@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "Name": "C",
-        "component_id": 230
+        "component_id": 230,
+        "resource_type": "Proposal"
       },
       "geometry": {
         "coordinates": [
@@ -19,7 +20,8 @@
       "type": "Feature",
       "properties": {
         "Name": "B",
-        "component_id": 200
+        "component_id": 200,
+        "resource_type": "Proposal"
       },
       "geometry": {
         "coordinates": [
