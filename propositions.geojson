@@ -6,7 +6,7 @@
       "properties": {
         "Name": "C",
         "component_id": 230,
-        "resource_type": "Proposal"
+        "resource_type": "Accountability"
       },
       "geometry": {
         "coordinates": [
@@ -21,7 +21,7 @@
       "properties": {
         "Name": "B",
         "component_id": 200,
-        "resource_type": "Proposal"
+        "resource_type": "Accountability"
       },
       "geometry": {
         "coordinates": [
