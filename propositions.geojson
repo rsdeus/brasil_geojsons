@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Proposition C",
+        "Name": "C",
         "component_id": 230
       },
       "geometry": {
@@ -18,7 +18,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Propositon B",
+        "Name": "B",
         "component_id": 200
       },
       "geometry": {
@@ -32,7 +32,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Propositon D",
+        "Name": "D",
         "component_id": 200
       },
       "geometry": {
@@ -47,8 +47,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Proposition A",
-        "component_id": 267
+        "Name": "A",
+        "component_id": 300
+        "resource_type": "Proposal"
       },
       "geometry": {
         "coordinates": [
@@ -61,8 +62,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Proposition E",
-        "component_id": 300,
+        "Name": "E",
+        "component_id": 267,
         "resource_type": "Accountability"
       },
       "geometry": {
