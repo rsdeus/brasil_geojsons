@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Propositon B",
-        "component_id": 267
+        "component_id": 200
       },
       "geometry": {
         "coordinates": [
@@ -56,6 +56,21 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "component_id": 300,
+        "resource_type": "Accountability"
+      },
+      "geometry": {
+        "coordinates": [
+          6.561235302979185,
+          46.526278961081715
+        ],
+        "type": "Point"
+      },
+      "id": 4
     }
   ]
 }
