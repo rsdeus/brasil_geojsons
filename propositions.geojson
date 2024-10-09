@@ -48,7 +48,7 @@
       "type": "Feature",
       "properties": {
         "Name": "A",
-        "component_id": 300
+        "component_id": 300,
         "resource_type": "Proposal"
       },
       "geometry": {
