@@ -61,9 +61,9 @@
     {
       "type": "Feature",
       "properties": {
+        "Name": "Proposition E",
         "component_id": 300,
-        "resource_type": "Accountability",
-        "name": "Proposition E"
+        "resource_type": "Accountability"
       },
       "geometry": {
         "coordinates": [
