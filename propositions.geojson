@@ -41,7 +41,8 @@
           46.53607915981526
         ],
         "type": "Point"
-      }
+      },
+      "id": 2
     },
     {
       "type": "Feature",
@@ -61,7 +62,8 @@
       "type": "Feature",
       "properties": {
         "component_id": 300,
-        "resource_type": "Accountability"
+        "resource_type": "Accountability",
+        "name": "Proposition E"
       },
       "geometry": {
         "coordinates": [
